@@ -29,6 +29,6 @@ The "shape" in the data could probably be left out of the search criteria.
 
 With that being said, the two additional recommendations for future development I'd make to the Dana's webpage would be:
 
-  -  Adding a dropdown list to the input tables so the user can search through an active list that matches the data. (ex: city, state, country and shape).
+  -  Adding a dropdown list to the input tables so the user can search through an active list that matches the data. (example: when inputting for a shape it'll dropdown a list of available shapes to choose from for input).
   
   -  Adding an active community forum for users to discuss the topics of UFO sightings and conspiracies. 
